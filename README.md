@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas! 👋
 
-Sou um estudante na UFAM apaixonado por tecnologia e aprender novas ferramentas.
+Sou um estudante na UFAM apaixonado por tecnologia e aprender a usar novas ferramentas.
 
 ---
 
