@@ -10,7 +10,7 @@ Sou um estudante na UFAM apaixonado por tecnologia e aprender a usar novas ferra
 - ryusei_cafe: sistema desenvolvido em Java para a matéria POO, aplicando diversos conceitos dessa filosofia de programação.
 - cd_speedrun_elden-ring: trabalho desenvolvido para a matéria Ciência de Dados, demonstra web scraping, limpeza de dados e EDA.
 
-### 🛠️ Principais conhecimentos
+### 🧠 Principais conhecimentos
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40" alt="C" />
