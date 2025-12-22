@@ -9,6 +9,7 @@ Sou um estudante na UFAM apaixonado por tecnologia e aprender a usar novas ferra
 - Trabalhos práticos de BD: trabalhos complexos aplicando diversos conceitos de BD, desonvolvidos para avaliação dessa matéria na faculdade.
 - ryusei_cafe: sistema desenvolvido em Java para a matéria POO, aplicando diversos conceitos dessa filosofia de programação.
 - cd_speedrun_elden-ring: trabalho desenvolvido para a matéria Ciência de Dados, demonstra web scraping, limpeza de dados e EDA.
+- trabalhos_praticos_SO: trabalhos acadêmicos demonstrando conhecimentos em escalonamento, semáforos e Threads.
 
 ### 🧠 Principais conhecimentos
 
