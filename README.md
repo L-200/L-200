@@ -32,4 +32,5 @@ Sou um estudante na UFAM apaixonado por tecnologia e aprender a usar novas ferra
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-5629bb318/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasscpereira14@gmail.com)
 
+---
 > "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende" - Leonardo da Vinci
