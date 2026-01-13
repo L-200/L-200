@@ -10,7 +10,8 @@ Fora do código:
 - Gosto muito de jogos, principalmente os que oferecem desafio e boa ambientação.
 - Meu jogo favorito é **Hollow Knight**, pela trilha sonora, arte e complexidade do gameplay.
 
-No código, busco aplicar boas práticas, aprender novos conceitos e evoluir constantemente através de projetos acadêmicos e pessoais.
+No código, busco aplicar boas práticas, aprender novos conceitos e evoluir constantemente através de projetos acadêmicos e pessoais. 
+
 ---
 
 ### 💻 Projetos em destaque 
