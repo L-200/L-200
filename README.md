@@ -14,14 +14,14 @@ No código, busco aplicar boas práticas, aprender novos conceitos e evoluir con
 
 ---
 
-### 💻 Projetos em destaque 
+## 💻 Projetos em destaque 
 
 - Trabalhos práticos de BD: trabalhos complexos aplicando diversos conceitos de BD, desonvolvidos para avaliação dessa matéria na faculdade.
 - ryusei_cafe: sistema desenvolvido em Java para a matéria POO, aplicando diversos conceitos dessa filosofia de programação.
 - cd_speedrun_elden-ring: trabalho desenvolvido para a matéria Ciência de Dados, demonstra web scraping, limpeza de dados e EDA.
 - trabalhos_praticos_SO: trabalhos acadêmicos demonstrando conhecimentos em escalonamento, semáforos e Threads.
 
-### 🧠 Principais conhecimentos
+## 🧠 Principais conhecimentos
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40" alt="C" />
