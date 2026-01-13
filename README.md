@@ -1,7 +1,16 @@
 # Olá, eu sou o Lucas! 👋
 
-Sou um estudante na UFAM apaixonado por tecnologia e aprender a usar novas ferramentas.
+## 👤 Sobre mim
 
+Sou estudante de tecnologia e desenvolvedor em formação, com interesse em entender não só como as coisas funcionam, mas **por que** funcionam.
+
+Fora do código:
+- Tenho um cachorro 🐶 que ganhei aos 8 anos chamado Nescau.
+- Sou apaixonado pelo universo **Star Wars** 🌌.
+- Gosto muito de jogos, principalmente os que oferecem desafio e boa ambientação.
+- Meu jogo favorito é **Hollow Knight**, pela trilha sonora, arte e complexidade do gameplay.
+
+No código, busco aplicar boas práticas, aprender novos conceitos e evoluir constantemente através de projetos acadêmicos e pessoais.
 ---
 
 ### 💻 Projetos em destaque 
