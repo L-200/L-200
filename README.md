@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mim
 
-Sou estudante de tecnologia e desenvolvedor em formação, com interesse em entender não só como as coisas funcionam, mas **por que** funcionam.
+Sou estudante de Ciência da Computação na UFAM e desenvolvedor em formação, com grande vontade de me tornar um excelente programador.
 
 Fora do código:
 - Tenho um cachorro 🐶 que ganhei aos 8 anos chamado Nescau.
