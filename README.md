@@ -5,9 +5,8 @@
 Sou estudante de Ciência da Computação na UFAM e desenvolvedor em formação, com grande vontade de me tornar um excelente programador.
 
 Fora do código:
-- Tenho um cachorro 🐶 que ganhei aos 8 anos chamado Nescau.
-- Sou apaixonado pelo universo **Star Wars** 🌌.
-- Gosto muito de jogos, principalmente os que oferecem desafio e boa ambientação.
+- Tenho um cachorro 🐶 chamado Nescau.
+- Sou apaixonado pelo universo de **Star Wars** 🌌.
 - Meu jogo favorito é **Hollow Knight**, pela trilha sonora, arte e complexidade do gameplay.
 
 No código, busco aplicar boas práticas, aprender novos conceitos e evoluir constantemente através de projetos acadêmicos e pessoais. 
