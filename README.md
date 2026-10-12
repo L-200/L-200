@@ -10,7 +10,6 @@ _Em busca de me tornar um excelente programador, uma linha de código por vez._
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucasscpereira14@gmail.com)
 
 ![UFAM](https://img.shields.io/badge/UFAM-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-blue?style=flat-square)
-![Foco](https://img.shields.io/badge/foco-Back%20End%20%7C%20Sistemas%20%7C%20Dados-brightgreen?style=flat-square)
 
 </div>
 
@@ -105,7 +104,6 @@ Projeto final de **POO**: sistema de gestão de um Manga Café com interface gr�
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="28" alt="Mongoose" />
