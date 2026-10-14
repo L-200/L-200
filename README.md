@@ -34,7 +34,6 @@ Sou estudante de Ciência da Computação na **UFAM**, construindo minha base em
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Phi--3.5--mini-8A2BE2)
 ![GGUF](https://img.shields.io/badge/modelo-GGUF%20Q4__K__M-orange)
-![Trabalho em grupo](https://img.shields.io/badge/trabalho-em%20grupo-lightgrey)
 
 Agente autônomo para o jogo **Nota Secreta** (uma variação de Dixit com músicas brasileiras), integrando um modelo de linguagem local (**Phi-3.5-mini-instruct**) a rotinas de _fallback_ heurístico em camadas, para garantir resiliência em um ambiente multiagente.
 
